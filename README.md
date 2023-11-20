@@ -5,6 +5,9 @@ Our primary objective is to follow through on the ETL method, (extract, transfor
 We are hoping to gain insights into different countries' energy production vs consumption statuses and energy production efficiencies. 
 We are hoping to display our final analysis through different visualizations.
 
+[Net Import of Energy vs Countries.pdf](https://github.com/yuy3y/EnergyDataAnalysis/files/13405240/Net.Import.of.Energy.vs.Countries.pdf)
+
+
 ## This project's contributors consists of Yiyang Yu and Rustam Jumazhanov.
 
 # Data Sources
