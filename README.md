@@ -3,13 +3,13 @@
 This is an analysis on global energy production, consumption and imports during 2016-2019 for the class CS2316. 
 Our primary objective is to follow through on the ETL method, (extract, transform, load) and perform analysis on different global energy datasets in different formats.
 We are hoping to gain insights into different countries' energy production vs consumption statuses and energy production efficiencies. 
-We are hoping to display our final analysis through different visualizations.
+We are hoping to display our final analysis through different visualizations such as tableau, matplotlib, and seaborn.
 
-![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/8b7d0974-559e-452d-a21c-d61ec2d2e0ba)
+An example of a tableau dashboard is below.
+![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/a1b0ae53-fe92-464e-90e6-7dd20d5bf7e5)
 
 
-
-## This project's contributors consists of Yiyang Yu and Rustam Jumazhanov.
+## This project's main contributor is Yiyang Yu.
 
 # Data Sources
 
