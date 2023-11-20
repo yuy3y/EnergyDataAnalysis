@@ -8,8 +8,6 @@ We are hoping to display our final analysis through different visualizations.
 ![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/8b7d0974-559e-452d-a21c-d61ec2d2e0ba)
 
 
-[Net Import of Energy vs Countries.pdf](https://github.com/yuy3y/EnergyDataAnalysis/files/13405240/Net.Import.of.Energy.vs.Countries.pdf)
-
 
 ## This project's contributors consists of Yiyang Yu and Rustam Jumazhanov.
 
