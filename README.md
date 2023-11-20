@@ -6,7 +6,7 @@ We are hoping to gain insights into different countries' energy production vs co
 We are hoping to display our final analysis through different visualizations such as tableau, matplotlib, and seaborn.
 
 An example of a currently working in progress tableau dashboard is below.
-![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/a1b0ae53-fe92-464e-90e6-7dd20d5bf7e5)
+![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/34191da2-778d-4a85-9dce-333f01379141)
 
 
 ## This project's main contributor is Yiyang Yu.
