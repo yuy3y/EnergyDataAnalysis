@@ -1,7 +1,7 @@
 # Energy Data Analysis
 
 This is an analysis on global energy production, consumption and imports during 2016-2019 for the class CS2316. 
-Our primary objective is to follow through on the ETL method, (extract, transform, load) and perform analysis on different global energy datasets in different formats.
+The primary objective is to follow through on the ETL method, (extract, transform, load) and perform analysis on different global energy datasets in different formats.
 I am hoping to gain insights into different countries' energy production vs consumption statuses and energy production efficiencies. 
 I am planning to display the final analysis through different visualizations such as tableau, matplotlib, and seaborn.
 
