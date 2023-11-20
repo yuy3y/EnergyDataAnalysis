@@ -2,8 +2,8 @@
 
 This is an analysis on global energy production, consumption and imports during 2016-2019 for the class CS2316. 
 Our primary objective is to follow through on the ETL method, (extract, transform, load) and perform analysis on different global energy datasets in different formats.
-We are hoping to gain insights into different countries' energy production vs consumption statuses and energy production efficiencies. 
-We are hoping to display our final analysis through different visualizations such as tableau, matplotlib, and seaborn.
+I am hoping to gain insights into different countries' energy production vs consumption statuses and energy production efficiencies. 
+I am planning to display the final analysis through different visualizations such as tableau, matplotlib, and seaborn.
 
 An example of a currently working in progress tableau dashboard is below.
 ![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/34191da2-778d-4a85-9dce-333f01379141)
@@ -19,5 +19,5 @@ Web Collection #2 Source: https://www.eia.gov/international/data/world/electrici
 
 # Where to
 
-The ipynb jupyter notebook files are the files that we used to clean the dataset, while the two CSV files titled cleaned are the files we have cleaned for further analysis. There are also 3 raw files pulled from the above sources, which are the DATABASE....hmtl, Energyinformation...2016-2019, and global_power_plant_databse. 
+The ipynb jupyter notebook files are the files that I used to clean the dataset, while the two CSV files titled cleaned are the files I have cleaned for further analysis. There are also 3 raw files pulled from the above sources, which are the DATABASE....hmtl, Energyinformation...2016-2019, and global_power_plant_databse. 
 
