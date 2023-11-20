@@ -9,7 +9,6 @@ An example of a currently working in progress tableau dashboard is below.
 ![image](https://github.com/yuy3y/EnergyDataAnalysis/assets/59656983/34191da2-778d-4a85-9dce-333f01379141)
 
 
-## This project's main contributor is Yiyang Yu.
 
 # Data Sources
 
